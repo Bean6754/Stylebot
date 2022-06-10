@@ -1,0 +1,36 @@
+body, html {
+  background-color: #151515;
+  color: #ffc;
+}
+
+a, a:visited { color: #08e; }
+
+/* Header.*/
+#mw-head {
+  background-color: #151515;
+}
+
+div.mw-body {
+  background-color: #151515;
+  color: #ffc;
+}
+
+span.mw-headline {
+  color: #ffc;
+}
+
+/* Heading. */
+h1.firstHeading.mw-first-heading {
+  color: #ffc;
+}
+
+a.mw-wiki-logo  {
+  background-color: #555;
+  border-radius: 5px;
+  margin-top: 4px;
+}
+
+/* Table data. */
+tbody tr td { background-color: #151515; }
+tbody tr th { background-color: #252525; }
+tbody { color: #ffc; }
