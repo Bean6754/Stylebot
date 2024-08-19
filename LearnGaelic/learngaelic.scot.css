@@ -1,0 +1,35 @@
+/* Header. (Faclair.) */
+section.section.text-center.dic_intro {
+  background-color: #222;
+}
+span.gd {
+  color: #ddd;
+}
+
+/* Search bar. */
+input.search-input.typeahead.tt-input.typing {
+  background-color: #222;
+  color: #ddd;
+}
+
+/* Dictionary background. */
+section.section.section--full-width.dictionary_results {
+  background-color: #151515;
+}
+
+/* Dictionary contents. */
+table tr td {
+  background-color: #222;
+  color: #ddd;
+}
+div.dictionary_item-term.headword, div.enList {
+  color: #ddd;
+}
+
+/* Footer background. */
+main.wrapper {
+  background-color: #151515;
+}
+html body {
+  background-color: #151515;
+}
